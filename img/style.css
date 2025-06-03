@@ -1,0 +1,28 @@
+.logo{
+border-radius: 50px;
+align-items: start;
+width: 70px;
+margin-right: 12px;
+transition: all 0.3s;
+}
+
+.py-5{
+
+}
+
+.btn {
+    background-color: blue; /* color azul */
+    color: white;
+    border: none;
+  }
+  
+.btn-mostaza:hover {
+    background-color: #b58813;
+    color: white;
+  }
+
+  .p { 
+    background-color: green;
+    color: white;
+    margin: auto;     
+  }
